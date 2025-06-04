@@ -1,0 +1,8 @@
+html, body{
+    display: flex;
+}
+img{
+    width: 200px;
+    height: 225px;
+    align-self: right;
+}
